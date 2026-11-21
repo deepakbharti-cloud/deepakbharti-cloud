@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://deepakbharti.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-Explore_my_work-5EEAD4?style=for-the-badge&labelColor=101B2D&color=5EEAD4" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/deepak-bharti-ab7622315"><img src="https://img.shields.io/badge/LINKEDIN-Let's_connect-93C5FD?style=for-the-badge&labelColor=101B2D&color=93C5FD" alt="LinkedIn" /></a>
-<a href="mailto:drao18601@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-FBBF24?style=for-the-badge&labelColor=101B2D&color=FBBF24" alt="Email" /></a>
+<a href="mailto:deepak28609@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say_hello-FBBF24?style=for-the-badge&labelColor=101B2D&color=FBBF24" alt="Email" /></a>
 </p>
 
 <a href="#01--behind-the-code">About</a> ·
