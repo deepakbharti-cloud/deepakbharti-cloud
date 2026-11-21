@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Deepak Bharti — full-stack developer in the making. Python, Django, PHP and Laravel." />
+<img src="./banner.svg" width="100%" alt="Deepak Bharti — full-stack developer in the making. Python, Django, PHP and Laravel." />
 
 <br><br>
 
